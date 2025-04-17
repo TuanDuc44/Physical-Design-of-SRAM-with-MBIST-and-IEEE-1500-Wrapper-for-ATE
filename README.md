@@ -69,6 +69,6 @@ This project demonstrates a full front-end to back-end design flow for embedding
 ---
 
 ## 🧠 Author
-[Your Name] – Physical Design & DFT Enthusiast  
+[NGUYEN DUC TUAN] – Physical Design & DFT Enthusiast  
 
 
